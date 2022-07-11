@@ -1,11 +1,23 @@
 .App {
   text-align: center;
+  background-color: lavenderblush;
+
 }
 
 .header{
-  margin: 30px;
-  background-color: lavenderblush;
+  background-color: black;
+  text-align: center;
+color: lavenderblush;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;}
+
+.about-me{
+  margin: 60px;
+  color: olive;
+}
+
+.footer{
+background-color: black;
+color: lavenderblush;
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-  color: olive
 }
 
