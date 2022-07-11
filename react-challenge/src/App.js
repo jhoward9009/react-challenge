@@ -5,6 +5,7 @@ import Footer from './components/Footer'
 import About from './components/About'
 import Projects from './components/Projects'
 import ReachMe from './components/Reach-Me'
+import Resume from './components/Resume'
 
 
 
@@ -13,6 +14,7 @@ function App() {
 <Header></Header>
 <About></About>
 <Projects></Projects>
+<Resume></Resume>
 <ReachMe></ReachMe>
 <Footer></Footer>
 </div>
